@@ -11,7 +11,3 @@ Soy un apasionado de la tecnología y el desarrollo, con experiencia en segurida
 - 🐍 Python | 🔥 PowerShell | 🖥️ Bash  
 - 🌐 Cloud y on-premise  
 - 🔒 Seguridad en redes y auditorías  
-
-📫 **Contáctame:**  
-- ✉️ [Tu Correo]  
-- 🔗 [Tu LinkedIn o sitio web]  
